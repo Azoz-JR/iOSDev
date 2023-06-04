@@ -1,0 +1,306 @@
+[
+    {
+      "id": "6bb9d5e7-c7e5-401b-aedb-42825d8816e6",
+      "category": "Soups",
+      "name": "Tomato Basil Soup",
+      "imageURL": "https://www.ambitiouskitchen.com/wp-content/uploads/2017/08/tomatosoup-4.jpg",
+      "ingredients": [
+        "2 tablespoons olive oil",
+        "1 onion, chopped",
+        "2 cloves of garlic, minced",
+        "4 cups canned crushed tomatoes",
+        "1 cup vegetable broth",
+        "1/4 cup fresh basil leaves, chopped",
+        "1/2 cup heavy cream",
+        "Salt and pepper to taste",
+        "Croutons and fresh basil leaves for garnish"
+      ],
+      "instructions": [
+        "Heat olive oil in a large pot over medium heat.",
+        "Add the chopped onion and minced garlic to the pot. Sauté for 5-6 minutes until the onion is translucent.",
+        "Add the crushed tomatoes and vegetable broth to the pot. Bring to a simmer.",
+        "Stir in the chopped basil leaves and season with salt and pepper.",
+        "Simmer the soup for 20-25 minutes, stirring occasionally.",
+        "Using an immersion blender or a countertop blender, puree the soup until smooth.",
+        "Return the soup to the pot and stir in the heavy cream. Heat through over low heat.",
+        "Taste and adjust the seasoning if needed.",
+        "Serve the tomato basil soup hot, garnished with croutons and fresh basil leaves."
+      ]
+    },
+    {
+      "id": "da93f383-7414-4560-8b1e-3f2b34f0be1c",
+      "category": "Breakfast",
+      "name": "Classic Pancakes",
+      "imageURL": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/c3235163-5697-4911-84e9-633c78c9a35b/Derivates/c15df8ba-50ba-4d77-8292-bac5014b9cb0.jpg",
+      "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "3 1/2 teaspoons baking powder",
+        "1 teaspoon salt",
+        "1 tablespoon granulated sugar",
+        "1 1/4 cups milk",
+        "1 egg",
+        "3 tablespoons butter, melted",
+        "Maple syrup and butter for serving"
+      ],
+      "instructions": [
+        "In a large bowl, whisk together the flour, baking powder, salt, and sugar.",
+        "In a separate bowl, whisk together the milk, egg, and melted butter.",
+        "Pour the wet ingredients into the dry ingredients and stir until just combined. Do not overmix; it's okay if there are a few lumps.",
+        "Heat a griddle or non-stick skillet over medium heat. Grease it lightly with butter or cooking spray.",
+        "Pour 1/4 cup of batter onto the griddle for each pancake.",
+        "Cook until bubbles form on the surface of the pancake, then flip and cook the other side until golden brown.",
+        "Repeat with the remaining batter.",
+        "Serve the pancakes hot with maple syrup and butter."
+      ]
+    },
+    {
+      "id": "bca27ed8-5e36-4b95-b56b-2a6c6b0fe25e",
+      "category": "Desserts",
+      "name": "Strawberry Shortcake",
+      "imageURL": "https://driscolls.imgix.net/-/media/assets/recipes/classic-strawberry-shortcake-recipe.ashx",
+      "ingredients": [
+        "1 pound strawberries, hulled and sliced",
+        "2 tablespoons granulated sugar",
+        "2 cups all-purpose flour",
+        "1/4 cup granulated sugar",
+        "1 tablespoon baking powder",
+        "1/2 teaspoon salt",
+        "1/2 cup unsalted butter, cold and cut into small pieces",
+        "3/4 cup milk",
+        "Whipped cream"
+      ],
+      "instructions": [
+        "In a bowl, combine the sliced strawberries and 2 tablespoons of sugar. Stir well and let them sit for 30 minutes to release their juices.",
+        "Preheat the oven to 425°F (220°C).",
+        "In a large bowl, whisk together the flour, 1/4 cup of sugar, baking powder, and salt.",
+        "Add the cold butter pieces to the flour mixture and cut them in with a pastry cutter or fork until the mixture resembles coarse crumbs.",
+        "Stir in the milk and mix until just combined.",
+        "Turn the dough out onto a lightly floured surface and gently knead it a few times until it comes together.",
+        "Roll out the dough to about 1/2-inch thickness and cut it into rounds using a biscuit cutter or glass.",
+        "Place the rounds on a baking sheet and bake for 12-15 minutes or until golden brown.",
+        "Remove from the oven and let the shortcakes cool slightly.",
+        "To serve, split the shortcakes in half horizontally. Spoon the strawberries and their juices onto the bottom half, then top with whipped cream. Place the top half of the shortcake on the whipped cream.",
+        "Garnish with additional whipped cream and strawberries if desired.",
+        "Serve the strawberry shortcake immediately."
+      ]
+    },
+    {
+      "id": "02a6edf1-1b14-4aee-8354-43e1f3df09e2",
+      "category": "Mains",
+      "name": "Veggie Pizza",
+      "imageURL": "https://i0.wp.com/www.thursdaynightpizza.com/wp-content/uploads/2022/06/veggie-pizza-side-view-out-of-oven.png?resize=720%2C480&ssl=1",
+      "ingredients": [
+        "Pizza dough",
+        "Tomato sauce",
+        "Assorted vegetables (bell peppers, mushrooms, onions, olives, etc.), sliced",
+        "Shredded mozzarella cheese",
+        "Fresh basil leaves",
+        "Olive oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to the temperature specified on the pizza dough package.",
+        "Roll out the pizza dough to your desired thickness and shape on a lightly floured surface.",
+        "Transfer the dough to a baking sheet or pizza stone.",
+        "Spread a layer of tomato sauce evenly over the dough.",
+        "Arrange the sliced vegetables over the sauce.",
+        "Sprinkle shredded mozzarella cheese over the vegetables.",
+        "Drizzle olive oil over the pizza and season with salt and pepper.",
+        "Bake the pizza in the preheated oven for the recommended time or until the crust is golden and the cheese is melted and slightly browned.",
+        "Remove from the oven, garnish with fresh basil leaves, slice, and serve the veggie pizza hot."
+      ]
+    },
+    {
+      "id": "0f0c1967-ae72-4f19-a7ab-8e516cf1461b",
+      "category": "Salads",
+      "name": "Chicken Caesar Salad",
+      "imageURL": "https://healthyfitnessmeals.com/wp-content/uploads/2020/05/instagram-In-Stream_Square___Low-carb-Caesar-salad-4.jpg",
+      "ingredients": [
+        "2 boneless, skinless chicken breasts",
+        "1 tablespoon olive oil",
+        "1 head of romaine lettuce, torn",
+        "Caesar dressing",
+        "Grated Parmesan cheese",
+        "Croutons"
+      ],
+      "instructions": [
+        "Heat olive oil in a skillet over medium-high heat.",
+        "Cook the chicken breasts for 6-8 minutes per side until cooked through.",
+        "Remove the chicken from the skillet and let it rest for a few minutes. Slice the chicken into strips.",
+        "In a large bowl, combine the torn romaine lettuce, sliced chicken, Caesar dressing, grated Parmesan cheese, and croutons. Toss to coat everything evenly.",
+        "Serve the chicken Caesar salad as a main course or side dish."
+      ]
+    },
+    {
+      "id": "94365b37-742b-4560-a8b0-845d6282fc7f",
+      "category": "Soups",
+      "name": "Chicken Noodle Soup",
+      "imageURL": "https://diethood.com/wp-content/uploads/2021/01/chicken-noodle-soup-9.jpg",
+      "ingredients": [
+        "1 tablespoon olive oil",
+        "1 onion, chopped",
+        "2 carrots, sliced",
+        "2 celery stalks, sliced",
+        "4 cups chicken broth",
+        "2 cups cooked chicken, shredded",
+        "2 cups egg noodles",
+        "1 teaspoon dried thyme",
+        "Salt and pepper to taste",
+        "Chopped fresh parsley for garnish"
+      ],
+      "instructions": [
+        "Heat olive oil in a large pot over medium heat.",
+        "Add the chopped onion, sliced carrots, and sliced celery to the pot. Sauté for 5-6 minutes until the vegetables are tender.",
+        "Pour in the chicken broth and bring to a boil.",
+        "Add the shredded chicken, egg noodles, and dried thyme to the pot.",
+        "Reduce the heat to low and simmer for 15-20 minutes until the noodles are cooked.",
+        "Season with salt and pepper to taste.",
+        "Serve the chicken noodle soup hot, garnished with chopped fresh parsley."
+      ]
+    },
+    {
+      "id": "6f9dbf8a-90a4-4f44-ba9e-dc3ff47a73f3",
+      "category": "Mains",
+      "name": "Shrimp Scampi Pasta",
+      "imageURL": "https://amandascookin.com/wp-content/uploads/2022/08/Shrimp-Scampi-Pasta-RCSq.jpg",
+      "ingredients": [
+        "8 ounces linguine pasta",
+        "1 pound large shrimp, peeled and deveined",
+        "4 tablespoons butter",
+        "4 cloves of garlic, minced",
+        "1/4 cup white wine",
+        "Juice of 1 lemon",
+        "Chopped fresh parsley",
+        "Salt and pepper to taste",
+        "Grated Parmesan cheese (optional)"
+      ],
+      "instructions": [
+        "Cook the linguine pasta according to the package instructions. Drain and set aside.",
+        "In a large skillet, melt the butter over medium heat.",
+        "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+        "Add the shrimp to the skillet and cook for 2-3 minutes per side until pink and cooked through.",
+        "Remove the shrimp from the skillet and set aside.",
+        "Deglaze the skillet with white wine, scraping up any browned bits.",
+        "Add the lemon juice and chopped parsley to the skillet. Season with salt and pepper.",
+        "Return the cooked shrimp to the skillet and toss to coat with the sauce.",
+        "Add the cooked linguine pasta to the skillet and toss to combine everything well.",
+        "Serve the shrimp scampi pasta hot, garnished with grated Parmesan cheese if desired."
+      ]
+    },
+    {
+      "id": "eeb6973d-8364-43d4-b153-3f97f2a9d4ab",
+      "category": "Mains",
+      "name": "Beef Tacos",
+      "imageURL": "https://funwithoutfodmaps.com/wp-content/uploads/2022/07/Low-FODMAP-Beef-Tacos-Square.jpg",
+      "ingredients": [
+        "1 pound ground beef",
+        "1 packet of taco seasoning",
+        "Taco shells",
+        "Shredded lettuce",
+        "Diced tomatoes",
+        "Shredded cheese",
+        "Sour cream and salsa (optional)"
+      ],
+      "instructions": [
+        "In a skillet, brown the ground beef over medium heat until cooked through. Drain any excess fat.",
+        "Add the taco seasoning to the cooked beef according to the package instructions.",
+        "Warm the taco shells in the oven or microwave.",
+        "Fill the taco shells with the seasoned ground beef.",
+        "Top with shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa, if desired."
+      ]
+    },
+    {
+      "id": "f5a0495f-6fc9-4565-bd87-2b635e6dbf84",
+      "category": "Desserts",
+      "name": "Chocolate Chip Cookies",
+      "imageURL": "https://images-gmi-pmc.edge-generalmills.com/087d17eb-500e-4b26-abd1-4f9ffa96a2c6.jpg",
+      "ingredients": [
+        "1 cup unsalted butter, softened",
+        "1 cup granulated sugar",
+        "1 cup packed brown sugar",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "3 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "2 cups chocolate chips"
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F (190°C).",
+        "In a large bowl, cream together the softened butter, granulated sugar, and brown sugar until smooth and creamy.",
+        "Beat in the eggs, one at a time, and stir in the vanilla extract.",
+        "In a separate bowl, combine the flour, baking soda, and salt. Gradually add the dry ingredients to the butter mixture and mix well.",
+        "Fold in the chocolate chips.",
+        "Drop rounded tablespoonfuls of dough onto ungreased baking sheets.",
+        "Bake for 9-11 minutes or until golden brown.",
+        "Allow the cookies to cool on the baking sheets for 5 minutes before transferring them to wire racks to cool completely."
+      ]
+    },
+    {
+      "id": "96f7ed26-78c4-442d-93a5-5fda6730cc60",
+      "category": "Salads",
+      "name": "Caprese Salad",
+      "imageURL": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/07/Caprese-Salad-main-1.jpg",
+      "ingredients": [
+        "2 large tomatoes, sliced",
+        "8 ounces fresh mozzarella cheese, sliced",
+        "Balsamic glaze",
+        "Fresh basil leaves",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Arrange the tomato and mozzarella slices on a serving plate, alternating them.",
+        "Drizzle balsamic glaze over the tomato and mozzarella slices.",
+        "Sprinkle with fresh basil leaves.",
+        "Season with salt and pepper.",
+        "Serve the Caprese salad immediately."
+      ]
+    },
+    {
+      "id": "8e2dab3f-c713-4d3d-8361-7e63a07c40d3",
+      "category": "Sides",
+      "name": "Vegetable Stir-Fry",
+      "imageURL": "https://d1e3z2jco40k3v.cloudfront.net/-/media/project/oneweb/mccormick-us/mccormick/recipe-images/stir-fry-vegetables-recipe-800x800.jpg?rev=93a14607adf8487098a20c6c2f708b0d&vd=20220914T205534Z&hash=3462A145DB20845D4AB02C88469481FE",
+      "ingredients": [
+        "1 red bell pepper, sliced",
+        "1 yellow bell pepper, sliced",
+        "1 broccoli crown, cut into florets",
+        "2 carrots, sliced",
+        "1 cup snap peas",
+        "3 tablespoons soy sauce",
+        "1 tablespoon sesame oil",
+        "1 teaspoon minced garlic",
+        "Salt and pepper to taste",
+        "Cooked rice or noodles for serving"
+      ],
+      "instructions": [
+        "Heat sesame oil in a wok or large skillet over medium-high heat.",
+        "Add the minced garlic and stir-fry for 1 minute.",
+        "Add the bell peppers, broccoli, carrots, and snap peas to the wok. Stir-fry for 4-5 minutes until the vegetables are tender-crisp.",
+        "Stir in the soy sauce and season with salt and pepper.",
+        "Continue to stir-fry for an additional 2 minutes.",
+        "Serve the vegetable stir-fry over cooked rice or noodles."
+      ]
+    },
+    {
+      "id": "d50b2a0c-68f5-4dbf-9f45-34bfcda0d361",
+      "category": "Mains",
+      "name": "Grilled Chicken with Lemon and Herbs",
+      "imageURL": "https://www.thechunkychef.com/wp-content/uploads/2021/09/Lemon-Herb-Grilled-Chicken-feat.jpg",
+      "ingredients": [
+        "4 chicken breasts",
+        "Juice of 2 lemons",
+        "4 cloves of garlic, minced",
+        "2 tablespoons of mixed fresh herbs (such as rosemary, thyme, and oregano)",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "In a bowl, combine the lemon juice, minced garlic, mixed herbs, salt, and pepper.",
+        "Place the chicken breasts in a shallow dish and pour the marinade over them, ensuring they are well coated. Let them marinate for at least 30 minutes.",
+        "Preheat the grill to medium-high heat.",
+        "Grill the chicken for about 6-8 minutes per side or until cooked through.",
+        "Remove from the grill and let it rest for a few minutes before serving. Serve with roasted vegetables."
+      ]
+    }
+]
+
