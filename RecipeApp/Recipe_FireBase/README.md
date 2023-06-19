@@ -4,10 +4,6 @@ The Recipe Saver App is an iOS application built using the SwiftUI framework and
 It utilizes Firebase Authentication and Firebase Database for user authentication and data storage, respectively.
 The app leverages the async-await concurrency model for efficient task execution.
 
-
-https://user-images.githubusercontent.com/77539943/218476418-5a68047d-ea54-4d46-a7af-46b16a3f8a75.mp4
-
-
 # Features
 - User Authentication: The app provides seamless user authentication using Firebase Authentication, ensuring secure access to saved recipes.
 - Recipe Management: Users can save and organize their favorite recipes within the app, making it easy to find and reference them later.
@@ -33,32 +29,55 @@ https://user-images.githubusercontent.com/77539943/218476418-5a68047d-ea54-4d46-
 # App Structure
 - Recipe
   - Views
-    - ContentView
-    - HomeView
-    - SearchView
-    - DownloadView
-    - HorizontalListView
-    - MovieTrailerView
-    - TvTrailerView
-    - WebView
-    
+    - Main
+        - RootView
+        - TabBar
+        - HomeViewView
+        - CategoriesView
+        - NewView
+        - FavoritesView
+        - SettingsView
+        - AuthenticationView
+        - Authentication
+            - SubView
+                - SignInEmailView
+                - SignInEmailViewModel
+                - SignUpEmailView
+                - SignUpEmailViewModel
+        - Detail
+            - RecipeView
+            - CategoryView
+            - RecipeForm
+            
+        - Components
+            - RecipeCard
+            - CategoryCard
+            - RecipeList
+            - RecipeCardViewBuilder
+            - RecipeViewViewBuilder
+            
   - View Models
-    - NetflixViewModel
-    
-  - Load Manager
-    - APICaller
-    
-  - Resources
-    - NetflixApp
-    - Extensions
-    - FileManager-DocumentsDirectory
-    - Constants
+    - RecipesViewModel
+    - AuthenticationViewModel
+    - SettingsViewModel
     
   - Models
-    - Movie
-    - TV
-    - YoutubeSearchResponse
+    - RecipeModel
     
+  - Authentication
+    - AuthenticationManager
+    - SignInWithGoogleHelper
+    - SignInWithAppleHelper
+    
+  - Resources
+    - Bundle-Decodable
+    - Utilities
+    - DocumentsDirectory
+    - Color-Theme
+    
+  - FireStore
+    - UserManager
+    - RecipeManager    
     
 # Contact
 
